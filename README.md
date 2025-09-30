@@ -6,8 +6,10 @@
   <samp>
     I'm Iram Mukhtar :innocent:
     <br><br>
-    🎓 I have completed BS in Information Technology from University of Education, Lahore  
+    🎓 I have completed BS in Information Technology from University of Education,Lahore 
+    <br>
     🚀 I am the Founder of Haxxcel Solutions  
+    <br>
     ✨ Passionate about mastering Linux, Django, and Cybersecurity  
     <br><br>
   </samp>
