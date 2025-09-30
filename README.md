@@ -73,7 +73,7 @@
 <div align="center">
 
 ### Thanks for visiting my profile, see you next time! in sha ALLAH
- ![Visitor Count](https://profile-counter.glitch.me/metheiram/count.svg)
+
 
 </div>
 
