@@ -5,25 +5,28 @@
   <br><br>
   <samp>
     I'm Iram Mukhtar :innocent:
-    <br>
-    <br>
-     I'm  currently pursuing 🎓BS in Computer Science from University!
-    <br>
-    :dizzy: I Am Passionate About Mastering Linux, DevOps, C++, And Node.Js 
+    <br><br>
+    🎓 I have completed BS in Information Technology from University of Education, Lahore  
+    🚀 I am the Founder of Haxxcel Solutions  
+    ✨ Passionate about mastering Linux, Django, and Cybersecurity  
     <br><br>
   </samp>
 </p>
-
 
 <!-- social site -->
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://www.activewhatsappgrouplinks.xyz/" target="_blank">
+<a href="https://haxxcelsolutions.com" target="_blank">
 <strong>WEBSITE</strong>
 <br />
 <br />
 <br />
+</a>
+</td>
+</tr>
+</table>
+
 
 <p>
 
@@ -57,13 +60,13 @@
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-- 🌱 I’m currently learning Express Node js
+- 🌱 I’m currently learning Django, Cybersecurity, and Git/GitHub.
 - 💞️ I’m looking to collaborate on github
 - :sunglasses: exploring new techs everyday
-- 📫 reach me: [Gmail](mailto:metheiram@gmail.com)
+- 📫 reach me: [Gmail](mailto:metheiraam@gmail.com)
 - 📫 reach me: [Instagram](https://www.instagram.com/metheiram)
 - 📫 reach me: [Telegram](https://t.me/metheiram)
-- 📫 reach me: [Whatsapp](https://wa.me/03063928834)
+  
 
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
@@ -82,12 +85,15 @@
 
 <div align="center">
   
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-%2300A4EF.svg?style=for-the-badge&logo=security&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/visual%20studio%20code-blue.svg?style=for-the-badge&logo=visual%20studio%20code)
+
   
 </div>
 
